@@ -18,6 +18,5 @@ The relationship between inflation and suicide rates is weak but statistically s
 The findings also provide demographic insights, showing that suicide rates peak in middle age, particularly in the 35-54 age group, and that there is a pronounced gender disparity, with men being at a higher risk of suicide compared to women.
 
 In conclusion, while the relationships between economic factors and suicide rates are complex and influenced by various variables, the statistical analysis highlights the importance of addressing mental health and well-being, especially during periods of economic instability. The results also emphasize the need for targeted mental health support for middle-aged individuals and men, who are shown to be at higher risk.
-![image](https://github.com/user-attachments/assets/eedffb95-6555-497d-b58c-8a22e4ac5d47)
 
 
